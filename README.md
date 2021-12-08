@@ -17,10 +17,12 @@ I'm Rachel, a front-end developer in training from Philadelphia, PA. 🔔 🏛�
 <img src='https://github.com/RachelStant/RachelStant/blob/main/Example2.png' width='256' />
 <img src='https://github.com/RachelStant/RachelStant/blob/main/Example3.png' width='256' />
 <img src='https://github.com/RachelStant/RachelStant/blob/main/Chirp.jpg' width='256' />
+<hr/>
+<img src='https://github.com/RachelStant/RachelStant/blob/main/spence.png' width='256' />
 </div>
 
 
-
+## Where to find me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rachel-stanton-/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14851878/rachels)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/Rach115)  
 
 
