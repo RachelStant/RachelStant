@@ -19,6 +19,7 @@ I'm Rachel, a front-end developer in training from Philadelphia, PA. 🔔 🏛�
 <img src='https://github.com/RachelStant/RachelStant/blob/main/Chirp.jpg' width='256' />
 <hr/>
 <img src='https://github.com/RachelStant/RachelStant/blob/main/spence.png' width='256' />
+<img src='https://github.com/RachelStant/RachelStant/blob/main/Fiber.png' width='256' />
 </div>
 
 
