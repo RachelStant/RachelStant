@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-#### Welcome to my page!
-I'm Rachel, a front-end developer in training from Philadelphia, PA. 🔔 🏛️ <br>
-- After several years of experimenting with different programming languages and building mobile applications, I decided to dive into the world of web development, which I have become extremely interested in. <br>
-- My focus now is learning the basics and beyond of JavaScript, HTML, CSS and React so I can create my own dynamic web pages that solve problems and make a positive impact. <br>
-- I am challenging myself to dig deep into all aspects of web development and to refine my analytical and problem solving skills.
+#### Welcome to my page
+I'm Rachel, a full-stack software developer from Philadelphia, PA. 🔔 🏛️ <br>
+- After several years of experimenting with different programming languages and building mobile applications, I decided to pivot into full-stack web development, which is my current focus. <br>
+- I am currently learning intermediate/advanced JavaScript, HTML, CSS and React so I can create dynamic web applications that solve problems and make a positive impact. <br>
+- I am also learning network architecture as well as data structures & algorithms to build highly scalable solutions.
 
-#### Skills: REACT / JS / HTML / CSS & SCSS / BOOTSTRAP / SWIFT
+#### Skills: REACT / JS / HTML5 / CSS3 & SCSS / BOOTSTRAP5 / SWIFT / Node.js / Express / MongoDB
 
 - 🔭 I’m currently working on https://rachelstant.github.io/SwitchStream-Switch-Activity/#/ 
-- 👯 I’m looking to collaborate on back-end development for my React app 
 - 📫 How to reach me: rachel@getswitchstream.com 
 
 ## Examples of Work
