@@ -8,7 +8,7 @@ I'm Rachel, a full-stack software developer from Philadelphia, PA. 🔔 🏛️ 
 
 #### Skills: REACT & REDUX / JS / HTML5 / CSS3 & SCSS / BOOTSTRAP5 / SWIFT / NODEJS / EXPRESSJS / MONGODB
 
-- 🔭 I’m currently working on: [Car-Health-App](https://github.com/RachelStant/car-health)
+- 🔭 I’m currently working on: [Assistive Tech API](https://github.com/RachelStant/assistive-tech-api)
 - 📫 How to reach me: rachel@getswitchstream.com 
 
 ## Examples of Work
