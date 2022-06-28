@@ -6,7 +6,7 @@ I'm Rachel, a full-stack software developer from Philadelphia, PA. 🔔 🏛️ 
 - I am currently learning intermediate/advanced JavaScript, HTML, CSS and React so I can create dynamic web applications that solve problems and make a positive impact. <br>
 - I am also learning network architecture as well as data structures & algorithms to build highly scalable solutions.
 
-#### Skills: REACT & REDUX / JS / HTML5 / CSS3 & SCSS / BOOTSTRAP5 / SWIFT / NODEJS / EXPRESSJS / MONGODB
+#### Skills: REACT & REDUX TOOLKIT / JS / HTML5 / CSS3 & SCSS / BOOTSTRAP5 / MATERIAL UI / SWIFT / NODEJS / EXPRESSJS / MONGODB
 
 - 🔭 I’m currently working on: [Assistive Tech API](https://github.com/RachelStant/assistive-tech-api)
 - 📫 How to reach me: rachel@getswitchstream.com 
