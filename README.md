@@ -21,8 +21,9 @@ I'm Rachel, a full-stack software developer from Philadelphia, PA. 🔔 🏛️ 
 ## Examples of Work
 <div style="display: flex; flex-direction:row; align-content:'start'; gap:'2';">
 <div>
-<img src='https://github.com/RachelStant/RachelStant/blob/main/Quizzly.png' width='400' height='225'/>
-<img src='https://github.com/RachelStant/RachelStant/blob/main/Chirp.jpg' width='380' />
+<img src='https://github.com/RachelStant/RachelStant/blob/main/Quizzly.png' width='400' height='215'/>
+<img src='https://github.com/RachelStant/RachelStant/blob/main/PostIt.png' width='400' height='215'/>
+
 </div>
 
 <hr/>
@@ -30,6 +31,7 @@ I'm Rachel, a full-stack software developer from Philadelphia, PA. 🔔 🏛️ 
 <img src='https://github.com/RachelStant/RachelStant/blob/main/Fiber.png' width='300' />
 <img src='https://github.com/RachelStant/RachelStant/blob/main/Example2.png' width='300' />
 <img src='https://github.com/RachelStant/RachelStant/blob/main/Example3.png' width='300' />
+<img src='https://github.com/RachelStant/RachelStant/blob/main/Chirp.jpg' width='300' />
 </div>
 
 
